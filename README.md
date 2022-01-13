@@ -70,7 +70,7 @@ Below are some, but not necessarily all, of the key points we will consider duri
 
 - Circles and Rectangles  
 - Lines  
-- Polygons  
+- Paths  
 - Different colors  
 - README Quality
     - A description of what you have created. 1-2 screenshots are recommended for the README.  
