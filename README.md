@@ -1,7 +1,7 @@
 Assignment 1 - Hello World: GitHub and d3  
 ===
 
-Project link: https://github.com/sjtrauber/a1-ghd3/blob/patch-1/a1-sjtrauber-sarah-weintraub
+Project link: https://github.com/sjtrauber/a1-ghd3/blob/patch-1/index.html
 
 Image post animation:
 ![post animation](https://user-images.githubusercontent.com/57506869/150448748-544f8e66-27d2-4299-80a7-ee5d295add92.png)
